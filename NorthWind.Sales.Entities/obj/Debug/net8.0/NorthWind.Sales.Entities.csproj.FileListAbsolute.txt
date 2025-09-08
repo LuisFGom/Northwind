@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\QUINTO SEMESTRE\TECNOLOGIAS Y DESARROLLO WEB\PROYECTOS (CODIGOS)\Northwind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\QUINTO SEMESTRE\TECNOLOGIAS Y DESARROLLO WEB\PROYECTOS (CODIGOS)\Northwind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\QUINTO SEMESTRE\TECNOLOGIAS Y DESARROLLO WEB\PROYECTOS (CODIGOS)\Northwind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.AssemblyInfo.cs
+C:\Users\User\Desktop\QUINTO SEMESTRE\TECNOLOGIAS Y DESARROLLO WEB\PROYECTOS (CODIGOS)\Northwind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\QUINTO SEMESTRE\TECNOLOGIAS Y DESARROLLO WEB\PROYECTOS (CODIGOS)\Northwind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.sourcelink.json
